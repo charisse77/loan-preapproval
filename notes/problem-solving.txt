@@ -1,0 +1,30 @@
+Problem 
+A credit card company needs a preapproval software that receives a customer's name, credit score, monthly income, and housing payment. In order to be preapproved the customer must:
+ - Not have a housing payment that is more than 50% of their montly income
+ - Credit score >= 650
+
+Software should greet customer and ask for appropriate inputs. Offer option to press 'q' to quit. 
+
+Software should receive a customer name, credit score, monthly income, and housing payment. 
+Software should generate either a preapproval letter or or a denial letter.
+
+Letter states their credit score, monthly income, and housing payment and if they have been approved or denied based on this data 
+
+File should be name customer's name 
+
+Research 
+
+
+Pseduocode 
+
+
+TDD 
+
+
+Implement 
+
+
+Review and Refactor 
+
+
+Reflect 
